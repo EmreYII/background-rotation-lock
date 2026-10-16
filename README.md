@@ -15,7 +15,7 @@ The two controls are **Enable / Disable** and **Info**. The plugin starts **OFF*
 
 ## Compatibility and limits
 
-**Version 0.2 experimental. Tested with ZBrush 2022.0.8 on Windows x64.** Newer ZBrush versions have not been verified. No macOS build is included.
+**Version 0.2 experimental. Tested with ZBrush 2022.0.8 on Windows x64.** Newer ZBrush versions have not been verified. A macOS version is not available yet, but it may be released in the future.
 
 Detection uses visible pixel colors. A model surface matching the background can also be blocked; gradients and overlays may affect detection. Middle/right mouse buttons and Ctrl/Alt gestures are excluded from filtering. The plugin does not create navigation mappings; middle-button orbit has not been verified.
 
